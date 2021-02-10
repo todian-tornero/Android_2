@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidTokar</string>
+    <string name="TextUp">Подписка</string>
+    <string name="Email">E-Mail</string>
+    <string name="Password">Пароль</string>
+    <string name="Button_OK">OK</string>
+    <string name="Button_Clear">Очистить</string>
+</resources>
